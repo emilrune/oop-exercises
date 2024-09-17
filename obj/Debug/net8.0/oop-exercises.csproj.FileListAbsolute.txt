@@ -1,0 +1,15 @@
+/home/emilr/oop-exercises/bin/Debug/net8.0/oop-exercises
+/home/emilr/oop-exercises/bin/Debug/net8.0/oop-exercises.deps.json
+/home/emilr/oop-exercises/bin/Debug/net8.0/oop-exercises.runtimeconfig.json
+/home/emilr/oop-exercises/bin/Debug/net8.0/oop-exercises.dll
+/home/emilr/oop-exercises/bin/Debug/net8.0/oop-exercises.pdb
+/home/emilr/oop-exercises/obj/Debug/net8.0/oop-exercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/emilr/oop-exercises/obj/Debug/net8.0/oop-exercises.AssemblyInfoInputs.cache
+/home/emilr/oop-exercises/obj/Debug/net8.0/oop-exercises.AssemblyInfo.cs
+/home/emilr/oop-exercises/obj/Debug/net8.0/oop-exercises.csproj.CoreCompileInputs.cache
+/home/emilr/oop-exercises/obj/Debug/net8.0/oop-exercises.sourcelink.json
+/home/emilr/oop-exercises/obj/Debug/net8.0/oop-exercises.dll
+/home/emilr/oop-exercises/obj/Debug/net8.0/refint/oop-exercises.dll
+/home/emilr/oop-exercises/obj/Debug/net8.0/oop-exercises.pdb
+/home/emilr/oop-exercises/obj/Debug/net8.0/oop-exercises.genruntimeconfig.cache
+/home/emilr/oop-exercises/obj/Debug/net8.0/ref/oop-exercises.dll
