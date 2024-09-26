@@ -1,0 +1,15 @@
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/bin/Debug/net8.0/gennemsnitlig_alder
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/bin/Debug/net8.0/gennemsnitlig_alder.deps.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/bin/Debug/net8.0/gennemsnitlig_alder.runtimeconfig.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/bin/Debug/net8.0/gennemsnitlig_alder.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/bin/Debug/net8.0/gennemsnitlig_alder.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/gennemsnitlig_alder.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/gennemsnitlig_alder.AssemblyInfoInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/gennemsnitlig_alder.AssemblyInfo.cs
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/gennemsnitlig_alder.csproj.CoreCompileInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/gennemsnitlig_alder.sourcelink.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/gennemsnitlig_alder.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/refint/gennemsnitlig_alder.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/gennemsnitlig_alder.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/gennemsnitlig_alder.genruntimeconfig.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/gennemsnitlig_alder/obj/Debug/net8.0/ref/gennemsnitlig_alder.dll

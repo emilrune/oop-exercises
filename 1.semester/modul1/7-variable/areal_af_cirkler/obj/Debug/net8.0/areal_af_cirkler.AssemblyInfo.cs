@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("areal_af_cirkler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb1f4ce297c9594fdc17a8ad4835b655e0c6e90b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+668f4d8f2fc973fc049dbea3fcefbc57044c364d")]
 [assembly: System.Reflection.AssemblyProductAttribute("areal_af_cirkler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("areal_af_cirkler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/bin/Debug/net8.0/celsius_til_fahrenheit
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/bin/Debug/net8.0/celsius_til_fahrenheit.deps.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/bin/Debug/net8.0/celsius_til_fahrenheit.runtimeconfig.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/bin/Debug/net8.0/celsius_til_fahrenheit.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/bin/Debug/net8.0/celsius_til_fahrenheit.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/celsius_til_fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/celsius_til_fahrenheit.AssemblyInfoInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/celsius_til_fahrenheit.AssemblyInfo.cs
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/celsius_til_fahrenheit.csproj.CoreCompileInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/celsius_til_fahrenheit.sourcelink.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/celsius_til_fahrenheit.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/refint/celsius_til_fahrenheit.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/celsius_til_fahrenheit.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/celsius_til_fahrenheit.genruntimeconfig.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/celsius_til_fahrenheit/obj/Debug/net8.0/ref/celsius_til_fahrenheit.dll

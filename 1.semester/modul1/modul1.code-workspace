@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "7-variable/areal_af_cirkler"
+		},
+		{
+			"path": "7-variable/sum_af_areal_af_cirkler"
+		},
+		{
+			"path": "7-variable/celsius_til_fahrenheit"
+		},
+		{
+			"path": "7-variable/epoch"
+		},
+		{
+			"path": "7-variable/inkrementering_af_måned"
+		},
+		{
+			"path": "7-variable/daglige_differencer"
+		},
+		{
+			"path": "7-variable/gennemsnitlig_alder"
+		},
+		{
+			"path": "7-variable/printf"
+		}
+	],
+	"settings": {}
+}

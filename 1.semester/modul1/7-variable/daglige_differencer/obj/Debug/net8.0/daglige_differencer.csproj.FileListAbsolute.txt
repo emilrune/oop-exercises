@@ -1,0 +1,15 @@
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/bin/Debug/net8.0/daglige_differencer
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/bin/Debug/net8.0/daglige_differencer.deps.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/bin/Debug/net8.0/daglige_differencer.runtimeconfig.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/bin/Debug/net8.0/daglige_differencer.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/bin/Debug/net8.0/daglige_differencer.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/daglige_differencer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/daglige_differencer.AssemblyInfoInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/daglige_differencer.AssemblyInfo.cs
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/daglige_differencer.csproj.CoreCompileInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/daglige_differencer.sourcelink.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/daglige_differencer.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/refint/daglige_differencer.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/daglige_differencer.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/daglige_differencer.genruntimeconfig.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/daglige_differencer/obj/Debug/net8.0/ref/daglige_differencer.dll

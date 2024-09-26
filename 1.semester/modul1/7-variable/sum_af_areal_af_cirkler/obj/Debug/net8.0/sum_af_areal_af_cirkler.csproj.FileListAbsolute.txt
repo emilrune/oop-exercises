@@ -1,0 +1,15 @@
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/bin/Debug/net8.0/sum_af_areal_af_cirkler
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/bin/Debug/net8.0/sum_af_areal_af_cirkler.deps.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/bin/Debug/net8.0/sum_af_areal_af_cirkler.runtimeconfig.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/bin/Debug/net8.0/sum_af_areal_af_cirkler.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/bin/Debug/net8.0/sum_af_areal_af_cirkler.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/sum_af_areal_af_cirkler.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/sum_af_areal_af_cirkler.AssemblyInfoInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/sum_af_areal_af_cirkler.AssemblyInfo.cs
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/sum_af_areal_af_cirkler.csproj.CoreCompileInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/sum_af_areal_af_cirkler.sourcelink.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/sum_af_areal_af_cirkler.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/refint/sum_af_areal_af_cirkler.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/sum_af_areal_af_cirkler.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/sum_af_areal_af_cirkler.genruntimeconfig.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/7-variable/sum_af_areal_af_cirkler/obj/Debug/net8.0/ref/sum_af_areal_af_cirkler.dll
