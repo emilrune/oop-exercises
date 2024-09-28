@@ -29,7 +29,7 @@
         const int minutesPerHour = 60;
         const int hoursPerDay = 24;
         const int daysPerMonth = 30;
-        const int monthsPerYear = 12;
+        const int monthsPerYear = 15;
         
         // Beregn sekunder per dag og måned
         long secondsPerDay = secondsPerMinute * minutesPerHour * hoursPerDay;
