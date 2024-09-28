@@ -1,0 +1,15 @@
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/10-loops.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/10-loops.AssemblyInfoInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/10-loops.AssemblyInfo.cs
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/10-loops.csproj.CoreCompileInputs.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/10-loops.sourcelink.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/bin/Debug/net8.0/10-loops
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/bin/Debug/net8.0/10-loops.deps.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/bin/Debug/net8.0/10-loops.runtimeconfig.json
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/bin/Debug/net8.0/10-loops.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/bin/Debug/net8.0/10-loops.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/10-loops.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/refint/10-loops.dll
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/10-loops.pdb
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/10-loops.genruntimeconfig.cache
+/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/Debug/net8.0/ref/10-loops.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch/epoch.csproj": {}
+    "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch_diff/epoch.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch/epoch.csproj": {
+    "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch_diff/epoch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch/epoch.csproj",
+        "projectUniqueName": "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch_diff/epoch.csproj",
         "projectName": "epoch",
-        "projectPath": "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch/epoch.csproj",
+        "projectPath": "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch_diff/epoch.csproj",
         "packagesPath": "/home/emilr/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch/obj/",
+        "outputPath": "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch_diff/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emilr/.nuget/NuGet/NuGet.Config"
