@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = epoch
-build_property.ProjectDir = /mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/9-branches/epoch_diff/
+build_property.ProjectDir = C:\Users\emilr\Documents\SPILTEK\github-repos\oop-exercises-win\1.semester\modul1\9-branches\epoch_diff\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
