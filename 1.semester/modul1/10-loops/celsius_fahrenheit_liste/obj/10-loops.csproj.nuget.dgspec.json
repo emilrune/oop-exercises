@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/10-loops.csproj": {}
+    "C:\\Users\\emilr\\Documents\\SPILTEK\\github-repos\\oop-exercises-win\\1.semester\\modul1\\10-loops\\celsius_fahrenheit_liste\\10-loops.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/10-loops.csproj": {
+    "C:\\Users\\emilr\\Documents\\SPILTEK\\github-repos\\oop-exercises-win\\1.semester\\modul1\\10-loops\\celsius_fahrenheit_liste\\10-loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/10-loops.csproj",
+        "projectUniqueName": "C:\\Users\\emilr\\Documents\\SPILTEK\\github-repos\\oop-exercises-win\\1.semester\\modul1\\10-loops\\celsius_fahrenheit_liste\\10-loops.csproj",
         "projectName": "10-loops",
-        "projectPath": "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/10-loops.csproj",
-        "packagesPath": "/home/emilr/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/emilr/Documents/SPILTEK/github-repos/oop-exercises-win/1.semester/modul1/10-loops/obj/",
+        "projectPath": "C:\\Users\\emilr\\Documents\\SPILTEK\\github-repos\\oop-exercises-win\\1.semester\\modul1\\10-loops\\celsius_fahrenheit_liste\\10-loops.csproj",
+        "packagesPath": "C:\\Users\\emilr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emilr\\Documents\\SPILTEK\\github-repos\\oop-exercises-win\\1.semester\\modul1\\10-loops\\celsius_fahrenheit_liste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/emilr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\emilr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
