@@ -43,8 +43,10 @@ Opgave 10.3a - Celsius til fahrenheit alternativer: 'foreach' loop
 ---------------------------------------------------------------------
 */
 
+/*
 // Opret et array og fyld det med alle celsius værdier, fra -5 til 40, med 0.5 interval, vha. 'for' loop
 double[] celsiusValues = new double[91];
+
 
 for (int i = 0; i < celsiusValues.Length; i++)
     {
@@ -57,6 +59,8 @@ foreach (double celsius in celsiusValues)
         double fahrenheitConverted = 32 + (9.0 / 5.0) * celsius;
         Console.WriteLine("Når celsius er = {0:0.0}, så er fahrenheit = {1:0.0}", celsius, fahrenheitConverted);
     }
+Console.WriteLine("test");
+*/
 
 
 /*
@@ -65,14 +69,28 @@ Opgave 10.3b - Celsius til fahrenheit alternativer: 'while' loop
 ---------------------------------------------------------------------
 */
 
+// Erklær en double variabel og initialisér celsius-værdien til starttemperaturen (-5)
+double celsius = -5;
 
+// Brug et while loop til at iterere over celsius-værdierne, ("så længe celsius er mindre eller lig med 40 grader, skal loopet køres igennem igen")
+while (celsius <= 40)
+{
+    // Konverter celsius til fahrenheit ud fra formlen
+    double fahrenheitConverted = 32 + (9.0 / 5.0) * celsius;
 
+    // Udskriv resultaterne
+    Console.WriteLine("Når celsius er = {0:0.0}, så er fahrenheit = {1:0.0}", celsius, fahrenheitConverted);
+
+    // Vigtigt for at få et while-loop til at virke; opdatér celsius-værdien med 0,5, for hver iteration. 
+    celsius += 0.5;
+}
 
 
 
 /*
 ---------------------------------------------------------------------
-TIP: brug følgende, til at tjekke arrayet fyldes korrekt op!
+TIP: brug følgende, til at tjekke om et array bliver fyldt korrekt op!
+
 foreach (int i in celsiusValues)
     {
         Console.WriteLine(i.ToString());
