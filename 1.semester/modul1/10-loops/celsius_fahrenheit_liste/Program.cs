@@ -17,12 +17,12 @@ Opgave 10.1 - Celsius til fahrenheit
 */
 
 /*
-for (double celsius = -5; celsius <= 40; celsius += 0.5)                                                                            //loop for -5 to 40
+for (double celsius = -5; celsius <= 40; celsius += 0.5) //loop for -5 to 40
     {                                                                     
-        double fahrenheitConverted = 32 + (9.0 / 5.0) * celsius;                                                                    //conversion
-        Console.WriteLine("Når celsius er = {0, 2 :0.0},  så er fahrenheit = {1, 2 :0.0}", celsius, fahrenheitConverted);          //console output
+        double fahrenheitConverted = 32 + (9.0 / 5.0) * celsius; //conversion
+        Console.WriteLine("Når celsius er = {0, 2 :0.0},  så er fahrenheit = {1, 2 :0.0}", celsius, fahrenheitConverted); //console output
     }
-
+*/
 
 /*
 ---------------------------------------------------------------------
@@ -59,7 +59,7 @@ foreach (double celsius in celsiusValues)
         double fahrenheitConverted = 32 + (9.0 / 5.0) * celsius;
         Console.WriteLine("Når celsius er = {0:0.0}, så er fahrenheit = {1:0.0}", celsius, fahrenheitConverted);
     }
-Console.WriteLine("test");
+
 */
 
 
@@ -68,6 +68,7 @@ Console.WriteLine("test");
 Opgave 10.3b - Celsius til fahrenheit alternativer: 'while' loop
 ---------------------------------------------------------------------
 */
+
 
 // Erklær en double variabel og initialisér celsius-værdien til starttemperaturen (-5)
 double celsius = -5;
