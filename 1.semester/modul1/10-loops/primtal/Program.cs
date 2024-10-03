@@ -1,7 +1,10 @@
 ﻿
+
+
+
         // 1. Gennemløb alle positive heltal under 300.000 og find primtallene
         List<int> primeNumbers300 = FindPrimesBelow(300000);
-        List<int> primeNumbers1000 = FindPrimesBelow(100000000);
+        List<int> primeNumbers1000 = FindPrimesBelow(1000000);
 
         // 2. Udskriv alle fundne primtal
         Console.WriteLine("Primtal under 300.000:");
@@ -10,13 +13,15 @@
             Console.WriteLine(prime);
         }
 
+
+
         // 3. Vent på brugerinput
         Console.WriteLine("Tryk på mellemrum for at finde det største primtal, under EN MILLION...");
         Console.ReadKey();
 
         // 4. Udskriv det største primtal
         Console.WriteLine($"\nTadaa, det er {primeNumbers1000[^1]}"); // ^1 er værktøj i C#, til at hente 'sidste element i en liste'
-    }
+    
 
     // Funktion der gennemløber alle tal under 1.000.000 og finder primtal
     static List<int> FindPrimesBelow(int limit)
@@ -52,6 +57,5 @@
             }
         }
 
-        return true;
+    return true;
     }
-}
